@@ -1,0 +1,12 @@
+C:\Users\Kaizen\source\repos\TaskManager\Domainn1\bin\Debug\Domainn1.dll.config
+C:\Users\Kaizen\source\repos\TaskManager\Domainn1\bin\Debug\Domainn1.dll
+C:\Users\Kaizen\source\repos\TaskManager\Domainn1\bin\Debug\Domainn1.pdb
+C:\Users\Kaizen\source\repos\TaskManager\Domainn1\bin\Debug\EntityFramework.dll
+C:\Users\Kaizen\source\repos\TaskManager\Domainn1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kaizen\source\repos\TaskManager\Domainn1\bin\Debug\EntityFramework.xml
+C:\Users\Kaizen\source\repos\TaskManager\Domainn1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kaizen\source\repos\TaskManager\Domainn1\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Kaizen\source\repos\TaskManager\Domainn1\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kaizen\source\repos\TaskManager\Domainn1\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Kaizen\source\repos\TaskManager\Domainn1\obj\Debug\Domainn1.dll
+C:\Users\Kaizen\source\repos\TaskManager\Domainn1\obj\Debug\Domainn1.pdb
